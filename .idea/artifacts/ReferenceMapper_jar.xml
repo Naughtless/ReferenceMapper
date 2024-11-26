@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ReferenceMapper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReferenceMapper_jar</output-path>
+    <root id="archive" name="ReferenceMapper.jar">
+      <element id="module-output" name="ReferenceMapper" />
+    </root>
+  </artifact>
+</component>
